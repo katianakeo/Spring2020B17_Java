@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242a48ea-3da6-422f-b4f1-081e4e9b0e0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/valueOfMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day28_DateTime/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Birthdays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Birthdays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/DateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/DateTime_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/DateTime_Formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Unboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day30_ArrayList/SumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Reverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,26 +41,13 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.SumOfDigits">
-    <configuration name="CalculateSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day16_ForLoop.CalculateSum" />
+  <component name="RunManager" selected="Application.Uniques">
+    <configuration name="ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayList_Reverse" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day16_ForLoop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateTime_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime_Formatting" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
+          <option name="PATTERN" value="day30_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.Uniques" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="valueOfMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.valueOfMethods" />
       <module name="Spring2020B17_Java" />
@@ -114,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uniques" />
+        <item itemvalue="Application.ArrayList_Reverse" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.valueOfMethods" />
         <item itemvalue="Application.ParseMethods" />
-        <item itemvalue="Application.CalculateSum" />
-        <item itemvalue="Application.DateTime_Formatting" />
       </list>
     </recent_temporary>
   </component>
@@ -172,22 +167,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587753024014" />
-    <state width="1235" height="166" key="GridCell.Tab.0.bottom" timestamp="1588084244212">
+    <state width="1235" height="166" key="GridCell.Tab.0.bottom" timestamp="1588087481693">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
-    <state width="1235" height="166" key="GridCell.Tab.0.center" timestamp="1588084244212">
+    <state width="1235" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588087481693" />
+    <state width="1235" height="166" key="GridCell.Tab.0.center" timestamp="1588087481693">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
-    <state width="1235" height="166" key="GridCell.Tab.0.left" timestamp="1588084244212">
+    <state width="1235" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588087481693" />
+    <state width="1235" height="166" key="GridCell.Tab.0.left" timestamp="1588087481693">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
-    <state width="1235" height="166" key="GridCell.Tab.0.right" timestamp="1588084244212">
+    <state width="1235" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588087481693" />
+    <state width="1235" height="166" key="GridCell.Tab.0.right" timestamp="1588087481693">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
+    <state width="1235" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588087481693" />
     <state width="1235" height="203" key="GridCell.Tab.1.bottom" timestamp="1586528430155">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
