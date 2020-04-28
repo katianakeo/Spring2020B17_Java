@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242a48ea-3da6-422f-b4f1-081e4e9b0e0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/ParseMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/valueOfMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day28_DateTime/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Birthdays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Birthdays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/DateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/DateTime_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/DateTime_Formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArrayList/Unboxing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YiNcpt9WKXmbvLbplLtroQp0ZT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,19 +39,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.dates_formatting">
-    <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Dates" />
+  <component name="RunManager" selected="Application.SumOfDigits">
+    <configuration name="CalculateSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16_ForLoop.CalculateSum" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day16_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unique_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.Unique_Arrays" />
+    <configuration name="DateTime_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime_Formatting" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WarmUpTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.WarmUpTask" />
+    <configuration name="ParseMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.ParseMethods" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dates_formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DateTime.dates_formatting" />
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.SumOfDigits" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DateTime.*" />
+          <option name="PATTERN" value="day30_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.repl.quiz" />
+    <configuration name="valueOfMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.valueOfMethods" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.repl.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dates_formatting" />
-        <item itemvalue="Application.quiz" />
-        <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.Unique_Arrays" />
-        <item itemvalue="Application.WarmUpTask" />
+        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.valueOfMethods" />
+        <item itemvalue="Application.ParseMethods" />
+        <item itemvalue="Application.CalculateSum" />
+        <item itemvalue="Application.DateTime_Formatting" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +156,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="94" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585333515295" />
+    <state x="395" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587753027178">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1587753027178" />
     <state x="301" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587132179551">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -153,22 +168,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="437" y="199" width="406" height="289" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1585840393431" />
-    <state width="1235" height="166" key="GridCell.Tab.0.bottom" timestamp="1587660491310">
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1587753024014">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587660491310" />
-    <state width="1235" height="166" key="GridCell.Tab.0.center" timestamp="1587660491309">
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587753024014" />
+    <state width="1235" height="166" key="GridCell.Tab.0.bottom" timestamp="1588084244212">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587660491309" />
-    <state width="1235" height="166" key="GridCell.Tab.0.left" timestamp="1587660491309">
+    <state width="1235" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
+    <state width="1235" height="166" key="GridCell.Tab.0.center" timestamp="1588084244212">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587660491309" />
-    <state width="1235" height="166" key="GridCell.Tab.0.right" timestamp="1587660491309">
+    <state width="1235" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
+    <state width="1235" height="166" key="GridCell.Tab.0.left" timestamp="1588084244212">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1235" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587660491309" />
+    <state width="1235" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
+    <state width="1235" height="166" key="GridCell.Tab.0.right" timestamp="1588084244212">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1235" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588084244212" />
     <state width="1235" height="203" key="GridCell.Tab.1.bottom" timestamp="1586528430155">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -189,6 +208,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583423601571" />
+    <state x="489" y="256" key="VCS.ChangelistChooser" timestamp="1587998182802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="489" y="256" key="VCS.ChangelistChooser/0.0.1280.680@0.0.1280.680" timestamp="1587998182802" />
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1584453139359">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -197,18 +220,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="198" y="76" width="885" height="566" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1583521557582" />
-    <state x="89" y="0" key="new project wizard" timestamp="1587669974395">
+    <state x="89" y="0" key="new project wizard" timestamp="1587753100883">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="89" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587669974395" />
+    <state x="89" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587753100883" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1587047781722">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1587047781722" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586375280799">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587997045392">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586375280799" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587997045391" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
