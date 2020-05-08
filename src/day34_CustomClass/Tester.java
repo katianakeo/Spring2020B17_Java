@@ -6,7 +6,7 @@ public class Tester {
     String jobTitles;
     double salary;
 
-    public void setTesterIfo(String name, long employeeID, String jobTitles, double salary){
+    public void setTesterInfo(String name, long employeeID, String jobTitles, double salary){
         this.name = name;
         this.employeeID = employeeID;
         this.jobTitles = jobTitles;
