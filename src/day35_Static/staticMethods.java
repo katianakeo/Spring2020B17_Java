@@ -10,4 +10,9 @@ public class staticMethods {
         System.out.println(b); // static can be called on its own
 
     }
+
+    public void method(){
+        System.out.println(a);
+        System.out.println(b);
+    }
 }
