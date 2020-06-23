@@ -11,11 +11,11 @@ public class Wrapper {
 
         int a1 = 20;
         float f1 = a1;
-
         Float f2 = f1;
 
         Byte b1 = 126;
         int a3 = b1;
+        System.out.println(a3);
 
 
 
